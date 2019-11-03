@@ -19,8 +19,8 @@ Finding the google search results shows conspiracy content - NLP, Webscrapper, F
 6) This was converted into a dataframe. To ascess the frequency of each words.
 7) Using KNN(k-nearest neighbor) Algorithm the classification algorithm was implemented from scratch. The distance metric used is euclidean distance with k=7.Compared to Random forest algorithm this seemed to work well for the prediction.
 8) From the google search results, all the cleaning process done for the trainig set has been repeated.
-9) Then the KNN algorithm was used to test the classification results. The application was converted into the gif file for easy visualization.
+9) Then the KNN algorithm was used to test the classification results. The application was converted into the gif file for easy understanding.
 
-### The below is the preview of the application. 
+### The below is the preview of the application with search for pope to identify conspiracy content on the google search. 
 
 ![](ceegleSearch.gif)
