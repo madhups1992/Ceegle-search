@@ -1,5 +1,5 @@
 # Ceegle-search
-Finding the google search results shows conspiracy content - NLP, Webscrapper, Flask app
+Finding the google search results which shows conspiracy content - NLP, Webscrapper, Flask app
 
 ### Objective: Highlight the conspiracy content on the google search.
 
