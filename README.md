@@ -23,4 +23,4 @@ Finding the google search results which shows conspiracy content - NLP, Webscrap
 
 ##### The below is the preview of the application with search key = "pope". This will identify conspiracy content on the google search. 
 
-![](ceegleSearch.gif | width=100)
+![](ceegleSearch.gif)
