@@ -21,6 +21,6 @@ Finding the google search results which shows conspiracy content - NLP, Webscrap
 8) From the google search results, all the cleaning process done for the trainig set has been repeated.
 9) Then the KNN algorithm was used to test the classification results. The application was converted into the gif file for easy understanding.
 
-##### The below is the preview of the application with search key = "pope". This will identify conspiracy content on the google search. 
+#### The below is the preview of the application with search key = "pope". This will identify conspiracy content on the google search. 
 
-![](ceegleSearch.gif)
+![](ceegleSearch.gif){:height="90%" width="90%"}
